@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Waqo (Waqgari)
 
-<!--
-**Waqo/Waqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run [Aduu Solar](https://aduusolar.com), a solar contractor serving DC/MD/VA, and [Align Software Company](https://alignco.dev), a small studio building software in various niches.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm working on
+
+- **Solar operations tooling** — design, financing, permit, and CRM workflows for residential solar
+- **MCP servers** for the platforms my team uses daily (Zoho, QuickBooks, OpenSolar, Google Workspace)
+- **Internal AI agents** that handle bookkeeping, lead qualification, and document generation end-to-end
+
+Most of my work lives in private repos. The public ones here are extractions I thought might help someone solving similar problems.
+
+#### Reach me
+
+[@waqo_re on X](https://x.com/waqo_re) · [@alignsoftware on X](https://x.com/alignsoftware)
