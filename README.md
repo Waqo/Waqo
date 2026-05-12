@@ -1,11 +1,11 @@
 ### Hey, I'm Waqo (Waqgari)
 
-I run [Aduu Solar](https://aduusolar.com), a solar contractor serving DC/MD/VA, and [Align Software Company](https://alignco.dev), a small studio building software in various niches.
+I run [Aduu Solar](https://aduusolar.com), a solar company serving DC/MD/VA, and [Align Software Company](https://alignco.dev), a small studio building software in various niches.
 
 
 #### What I'm working on
 
-- **Solar operations tooling** — design, financing, permit, and CRM workflows for residential solar
+- **Solar operations tooling** — design, financing, permit, and CRM workflows for solar
 - **MCP servers** for the platforms my team uses daily (Zoho, QuickBooks, OpenSolar, Google Workspace)
 - **Internal AI agents** that handle bookkeeping, lead qualification, and document generation end-to-end
 
